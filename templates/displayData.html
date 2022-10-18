@@ -1,0 +1,19 @@
+<h1>Query Results</h1>
+
+<h3>{{query}}</h3>
+
+<table>
+  <thead>
+    {% for columnKey in result[0].keys() %}
+      <th>{{columnKey}}</th>
+    {% endfor %}
+  </thead>
+    
+  {% for row in result %}
+    {% for columnValue in row.values() %}
+      <tr><td>{{columnValue}}</td></tr>
+    {% endfor %}
+  {% endfor %}
+</table>
+
+<a href="/">Go Back To Home</a>

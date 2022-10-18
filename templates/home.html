@@ -1,0 +1,10 @@
+<h1>Welcome to the Website</h1>
+<p>Click any of the following queries:</p>
+
+<table>
+<tbody>
+  {% for url in urlList %}
+    <tr><td> <a href='{{url}}'>{{url}}</a> </td></tr>
+  {% endfor %}
+</tbody>
+</table>
