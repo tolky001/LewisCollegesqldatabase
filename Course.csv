@@ -1,0 +1,11 @@
+﻿courseid,teacherid,classroomid,title,year,coursecode,time_slot,days_of_week
+H1-1,eugenio.flory,Matthews1,HISTORYONE,20222023,HIS-1,8-9:30,MW
+H1-2,ronna.harvett,Matthews2,HISTORYONE,20222023,HIS-1,8-9:30,MW
+M1-1,chere.ceinaturaga,Matthews1,MATHONE,20222023,MA-1,10-11:30,TR
+M1-2,john.beshears,Matthews2,MATHONE,20222023,MA-1,10-11:30,TR
+L1-1,jennifer.close,Matthews1,LANGUAGEONE,20222023,LAN-1,10-11:30,MW
+L1-2,ivan.lessard,Matthews2,LANGUAGEONE,20222023,LAN-1,10-11:30,MW
+MU1-1,pamela.lyne,Matthews1,MUSICONE,20222023,MUS-1,8-9:30,TR
+MU1-2,zlatan.martinez,Matthews2,MUSICONE,20222023,MUS-1,8-9:30,TR
+S1-1,bert.pallo,Matthews1,SCIENCEONE,20222023,SCI-1,12-1:30,MW
+S1-2,melissa.oudekirk,Matthews2,SCIENCEONE,20222023,SCI-1,12-1:30,MW
